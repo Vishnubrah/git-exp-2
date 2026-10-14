@@ -10,7 +10,7 @@
 # print(a)
 # print(type(a))
 # print(sys.getsizeof(a))
-# print(isinstance(a,float))
+# print(is
 
 # import sys
 # a=1+2j
